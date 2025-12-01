@@ -26,3 +26,9 @@ dist/
 ## OS
 .DS_Store
 thumbs.db
+
+# Docs the user requested to ignore (keep README.md)
+SETUP.md
+TROUBLESHOOTING.md
+
+backend/README_SETUP.md
